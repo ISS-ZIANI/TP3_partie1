@@ -37,7 +37,8 @@ Ces fonctionnalités constituent le socle minimal demandé dans l’énoncé du 
 L’image ci-dessous illustre le résultat obtenu : une page web présentant la liste des patients dans un tableau clair et organisé.  
 Chaque ligne correspond à un patient avec ses informations, ainsi qu’un bouton permettant de le supprimer.
 
-![Liste des patients](screenshots/résultat partie1.PNG)
+![Résultat console](screenshots/résultat.PNG)
+
 
 ---
 
