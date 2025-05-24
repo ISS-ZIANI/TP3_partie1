@@ -28,7 +28,7 @@ Insertion automatique de quelques patients au démarrage de l’application
 🖼️ Résultat (Interface utilisateur)
 L’image suivante montre l’interface actuelle de l’application, qui affiche la liste des patients sous forme de tableau. Chaque patient peut être supprimé via un bouton d’action :
 
-![Liste des patients](screenshots/partie1.PNG)
+![Liste des patients](screenshots/résultat partie1.PNG)
 
 
 📌 Explication du fonctionnement
